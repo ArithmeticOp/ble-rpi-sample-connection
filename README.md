@@ -16,5 +16,14 @@ bluez libbluetooth-dev libudev-dev
 <br>
 
 # Run
+### Raspbian
+> use 
+<br> 
+> const bleno = require('bleno)
 >* sudo su
+>* npm start
+### Macbook
+> use 
+<br>
+> const bleno = require('@abandonware/bleno')
 >* npm start
